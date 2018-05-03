@@ -1,68 +1,6 @@
-<!DOCTYPE html>
-<html>
-    <head>
-	<title> Kristine </title>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-
-	</head>
-
-		 <style>
-		   body {
-		       text-align:center;
-		       font-family:sans-serif;
-		       font-size:1.2em;
-		       padding:1% 0%;
-		       background:#28BA48;
-		   }
-
-		   h4  {
-		   color:#E21000;
-		   margin-top:1%;
-		   }
-
-            h2 {
-			   font-family:Arial;
-			   color:#1F2029
-           }
-		   h2  {
-		        border: 2px solid green;
-				position:center;
-				background-color:lightgreen;}
-
-			p:first-letter {
-			       font-weight:bold;
-				   font-color:green;
-				   font-size:30px;
-			}
-		 </style>
-
-    </head>
 
 
-	<body>
-
-
-
-	<h4><marquee> <i> <u>IT'S MORE FUN IN THE PHILIPPINES !!! </u> </i></marquee></h4>
-	<h2> A PHOTO GALLERY OF PHILIPPINES</h2>
-    <h3> Philippine Tourism </h3>
-
-
-<p>Click on an image to enlarge it, you can also use the tab key to navigate to the next image.</p>
-
-
-
-
-
-
-
-<style>
-
-      img {
+    img {
 		      width: 23%;
 		      margin:1%;		     		 
 		      vertical-align:middle;
