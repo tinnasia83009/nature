@@ -1,29 +1,4 @@
 
-
-    img {
-		      width: 23%;
-		      margin:1%;		     		 
-		      vertical-align:middle;
-			  transition:all 2s, transform .5s,
-			  box-shadow .5s;
-
-		   }
-	   img:hover {
-		        box-shadow:6px 6px 200px
-				rgba (0,0,0,.6);
-				transform:scale(1.02);
-			}
-	   img:focus {
-			box-shadow: 12px 12px 25px rgba {0,0,0,.7);
-			width:938%;
-			transform:none;
-
-		   }
-		   h1 {color:#FFDD44;
-		       border-bottom: 5px;
-           }
-
-</style>
 <a href="https://www.princesagardenisland.com" title="PRINCESA GARDEN ISLAND"> <img tabindex="irc_mi" src="https://i.travelapi.com/hotels/9000000/8770000/8762700/8762633/8762633_148_z.jpg" alt="Related image" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="304" height="171" style="margin-top: 10px;"> </img></a>
 <a href="https://www.bohol.ph/article6.html" title="CHOCOLATE HILLS"> <img tabindex="irc_mi" src="https://kittelsoncarpo.com/wp-content/uploads/2010/06/Chocolate_Hills_overview.jpg" onload="typeof google==='object'&amp;&amp;google.aft&amp;&amp;google.aft(this)" width="304" height="171" style="margin-top: 10px;" alt="Image result for philippines tourism"></img></a>
 
